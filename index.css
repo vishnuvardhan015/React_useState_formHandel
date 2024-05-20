@@ -1,0 +1,10 @@
+* {
+  margin: 3px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.form1 {
+  text-align: center;
+  justify-content: center;
+}
